@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **dwi.ritik20@gmail.com**
 
+- 🤠 My portfolio and blogs [click me](https://ping-ritik.netlify.app/)
+
 - ⚡ Fun fact i don't use arch 
 
 <h3 align="left">Connect with me:</h3>
