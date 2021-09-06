@@ -1,19 +1,15 @@
 <h3 align="center">Hi 👋, I'm Ritik</h3>
 <h5 align="center">A passionate developer and linux ethusiast , who likes to build things from ❤</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwivedi-ritik&label=Profile%20views&color=0e75b6&style=flat" alt="dwivedi-ritik" /> </p>
-
 - 🔭 I’m currently working on open source blog site 
 
-- 🌱 I’m currently learning Nuxt
+- 🌱 I’m currently learning react
 
 - 👯 I’m looking to collaborate on any python , javascript and vue projects
 
 - 🤝 I’m looking for help in frontend development 
 
 - 📫 How to reach me **dwi.ritik20@gmail.com**
-
-- 🤠 My portfolio and blogs [click me](https://ping-ritik.netlify.app/)
 
 - ⚡ Fun fact i don't use arch 
 
