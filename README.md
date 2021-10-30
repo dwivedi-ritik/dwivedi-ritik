@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dwi.ritik20@gmail.com**
 
-- ⚡ Fun fact i don't use arch 
+- ⚡ Fun fact i am slow learner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwivedi-ritik&theme=light&show_icons=true&locale=en&layout=compact" alt="dwivedi-ritik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwivedi-ritik&theme=dark&show_icons=true&locale=en&layout=compact" alt="dwivedi-ritik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedi-ritik&theme=light&show_icons=true&locale=en" alt="dwivedi-ritik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedi-ritik&theme=dark&show_icons=true&locale=en" alt="dwivedi-ritik" /></p>
