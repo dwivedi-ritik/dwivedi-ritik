@@ -1,13 +1,5 @@
 <h3 align="center">Hi 👋, I'm Ritik</h3>
-<h5 align="center">A passionate developer and linux ethusiast , who likes to build things from ❤</h5>
-
-- 🔭 I’m currently working on open source blog site 
-
-- 🌱 I’m currently learning react
-
-- 👯 I’m looking to collaborate on any python , javascript and vue projects
-
-- 🤝 I’m looking for help in frontend development 
+<h5 align="center">A passionate developer and linux ethusiast</h5>
 
 - 📫 How to reach me **dwi.ritik20@gmail.com**
 
