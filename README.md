@@ -9,8 +9,6 @@
  
 - 🌱 I’m currently learning Django
 
-- ⚡ Fun fact i am slow learner 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahm_ritik" target="blank"><img align="center" src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="ahm_ritik" width="30" width="30" /></a>
