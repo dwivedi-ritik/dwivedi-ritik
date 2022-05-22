@@ -17,6 +17,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwivedi-ritik&theme=algolia&show_icons=true&locale=en&layout=compact" alt="dwivedi-ritik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwivedi-ritik&theme=white&show_icons=true&locale=en&layout=compact" alt="dwivedi-ritik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedi-ritik&theme=algolia&show_icons=true&locale=en" alt="dwivedi-ritik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedi-ritik&theme=white&show_icons=true&locale=en" alt="dwivedi-ritik" /></p>
