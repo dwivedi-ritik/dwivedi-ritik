@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available in my github profile
  
 - 🌱 I’m currently learning Django
-## SKILLS 
+### SKILLS 
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@
 ![lamgs](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## CONNECT WITH ME
+### CONNECT WITH ME
 <p align="left">
 <a href="https://twitter.com/ahm_ritik" target="blank"><img align="center" src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="ahm_ritik" width="30" width="30" /></a>
 <a href="https://linkedin.com/in/ritik-dwivedi-7899581b2" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="ritik-dwivedi-7899581b2"  width="30" /></a>
