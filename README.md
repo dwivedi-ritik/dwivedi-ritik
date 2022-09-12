@@ -36,4 +36,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedi-ritik&theme=dark&show_icons=true&locale=en" alt="dwivedi-ritik" /></p>
 
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=dwivedi-ritik&theme=react-dark" /></p>
