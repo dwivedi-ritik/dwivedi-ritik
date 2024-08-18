@@ -3,11 +3,8 @@
 
 - 📫 How to reach me **dwi.ritik20@gmail.com**
 
-- 🔭 I’m currently looking for work and internships
-
 - 👨‍💻 All of my projects are available in my github profile
- 
-- 🌱 I’m currently learning Django
+
 ### SKILLS 
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
